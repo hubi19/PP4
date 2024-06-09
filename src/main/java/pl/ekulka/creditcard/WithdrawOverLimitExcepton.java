@@ -1,4 +1,4 @@
 package pl.ekulka.creditcard;
 
-public class WithdrawOverLimitExcepton extends IllegalStateException {
+public class WithdrawOverLimitException extends IllegalStateException {
 }
